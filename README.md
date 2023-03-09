@@ -20,3 +20,5 @@
   </div>
   
  ![snake gif](https://github.com/CesarmRibeiro/CesarmRibeiro/blob/output/github-contribution-grid-snake.svg)
+
+![CesarmRibeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=CesarmRibeiro&show_icons=true&theme=radical)
