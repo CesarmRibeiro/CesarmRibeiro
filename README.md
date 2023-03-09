@@ -5,6 +5,8 @@
 - 📫 Contate-me no email : cesarmeloribeiro0408@gmail.com
 - 😄 Pronouns: ele/dele
 
+![CesarmRibeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=CesarmRibeiro&show_icons=true&theme=radical)
+
   <div style="display: inline_block"><br>
   <img align="center" alt="Cesar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cesar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -21,4 +23,4 @@
   
  ![snake gif](https://github.com/CesarmRibeiro/CesarmRibeiro/blob/output/github-contribution-grid-snake.svg)
 
-![CesarmRibeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=CesarmRibeiro&show_icons=true&theme=radical)
+
